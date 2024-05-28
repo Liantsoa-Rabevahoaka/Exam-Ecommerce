@@ -1,0 +1,1 @@
+1-Pour le design des items, il faut toucher Item.css et ShopCategory.css
